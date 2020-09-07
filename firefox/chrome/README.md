@@ -1,4 +1,4 @@
-### Steps for applying this configuration(*extimated time: 4min*)
+### Steps for applying this configuration(*estimated time: 4min*)
 <ol>
   <li>Type about:profiles into your urlbar and go to the page</li>  
   <li>Open the root directory folder specified on the page</li>  
